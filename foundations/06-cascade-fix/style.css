@@ -11,8 +11,6 @@
   font-size: 14px;
 }
 
-
-
 .confirm {
   background: green;
   color: white;
@@ -30,7 +28,7 @@
   font-size: 14px;
 }
 
-div.text {
+.text {
   color: green;
   font-size: 22px;
 }
