@@ -23,8 +23,6 @@
   font-size: 20px;
 }
 
-}
-
 div {
   color: green;
   font-size: 22px;
@@ -33,4 +31,4 @@ div {
 
 .child {
   color: red;
-  font-size: 14px;
+  font-size: 14px; }
